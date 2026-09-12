@@ -38,7 +38,7 @@
     "url": "https://github.com/arylo-scripts/function-flow/issues"
   },
   "devDependencies": {
-    "@arylo-scripts/tsconfig": "github:arylo-scripts/tsconfig#master",
+    "@arylo-scripts/tsconfig": "^1.0.0",
     "concurrently": "^8.2.2",
     "oxfmt": "^0.35.0",
     "oxlint": "^1.58.0",
